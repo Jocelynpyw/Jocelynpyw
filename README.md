@@ -11,7 +11,7 @@
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
 
-🔭 I'm currently a 4th year engineering student with a major in software engineering.<br>✨ As long as i have hands, i can code anything.<br>🌱 I’m currently learning DevOps and Automation;<br>🤝: Ask me about React Js, Node Js, React Native , C# and CI/CD pipeline;<br>❤ I really love to solve problem<br>💻 Participated in different Projects (academic and professional projects) as, a Participant and a Mentor<br>💬: Like to talk about Coding bugs 😂🤬!;  <br>🤩: I like to learn new technologies. 🚀<br>⚡ Fun fact: I like to share my knowledge and learn something new every day.<br>
+🔭 I'm currently a 4th year engineering student with a major in software engineering.<br>✨ As long as i have hands, i can code anything.<br>🌱 I’m currently learning DevOps and Automation;<br>🤝: Ask me about React Js, Node Js, React Native , C# and CI/CD pipeline;<br>❤ I really love to solve problem<br>💻 Participated in different Projects (academic and professional projects) as, a Participant and a Mentor<br>💬: Like to talk about Coding bugs 😂🤬!;  <br>🤩: I like to learn new technologies, new concecpts , new things 🚀<br>⚡ Fun fact: I like to share my knowledge and learn something new every day.<br>
 
 
 ## 🌐 Socials:
